@@ -16,7 +16,9 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: profile-metrics.svg
           token: ${{ secrets.PROFILE_METRICS_TOKEN }}
           base: header
+          plugin_lines: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
