@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on something
+- 🌱 I’m currently learning Java
+- 🤔 I’m looking for help with ...
+- 😄 Pronouns: He/Him
+- <a title="Fun fact" target="_blank" href="https://youtu.be/xMHJGd3wwZk?si=OJjn4J6A9nprBqD8"><img src="https://img.shields.io/badge/⚡-Fun_fact-black?labelColor=grey"></a>
+
 <!--
 **JustAGuy4447/JustAGuy4447** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
