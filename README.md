@@ -1,4 +1,4 @@
-# Hi there 👋! Here are some useless facts
+# Hi there 👋! Here are some useless facts:
 - 🔭 I’m currently working on something
 - 🌱 I’m currently learning Java
 - <a title="Fun fact" target="_blank" href="https://youtu.be/xMHJGd3wwZk?si=OJjn4J6A9nprBqD8"><img src="https://img.shields.io/badge/⚡-Fun_fact-black?labelColor=grey"></a>
